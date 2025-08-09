@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completo-green.svg)
 
-Um sistema CRUD completo para gerenciamento de contatos pessoais desenvolvido em Python.
+Um sistema CRUD completo para gerenciamento de agenda pessoais desenvolvido em Python.
 
 ## Funcionalidades
 
