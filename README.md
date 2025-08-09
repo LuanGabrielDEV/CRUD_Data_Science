@@ -22,7 +22,7 @@ git clone https://github.com/LuanGabrielDEV/CRUD_Gerenciamento_De_Agenda.git
 ```
 2. Execute o programa:
 ```bash
-python CadastroCliente.py
+python GerenciadorDeAgenda.py
 ```
 3. Use o menu interativo:
 
