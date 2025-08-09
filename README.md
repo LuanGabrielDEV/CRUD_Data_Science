@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Contatos
+# Sistema de Gerenciamento de Agenda
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completo-green.svg)
@@ -18,7 +18,7 @@ Um sistema CRUD completo para gerenciamento de contatos pessoais desenvolvido em
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/LuanGabrielDEV/CRUD_Gerenciamento_De_Contatos.git
+git clone https://github.com/LuanGabrielDEV/CRUD_Gerenciamento_De_Agenda.git
 ```
 2. Execute o programa:
 ```bash
