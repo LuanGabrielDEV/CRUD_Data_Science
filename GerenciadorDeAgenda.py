@@ -29,18 +29,12 @@ Opção: """)
     #--------------------------------------
     # CADASTRAR CONTATOS
     if menuPrincipal == "1":
-        novo_id = next(id_generator)
-        nome = input("Nome: ")
-        telefone = input("Telefone: ")
-        email = input("Email: ")
-
         contatos.append({
-            "id": novo_id,
-            "nome": nome,
-            "telefone": telefone,
-            "email": email
+            "id": next(id_generator),
+            "nome": input("Nome: "),
+            "telefone": input("Telefone: "),
+            "email": input("Email: ")
         })
-
         print("Contato adicionado com sucesso!\n")
 
     # --------------------------------------
@@ -124,7 +118,7 @@ Opção: """)
     # SAIR
     elif menuPrincipal == "5":
         print("\nSaindo do sistema...")
-        print("Obrigado por usar nosso gerenciador de contatos!")
+        print("Obrigado por usar nosso gerenciador de agendas!")
         break  # This will exit the main program loop
 
     else:
